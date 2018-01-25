@@ -1,0 +1,43 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Trebuchet MS', futura, arial, sans-serif;
+	background-color: #42f4f4;
+}
+.box{
+	-webkit-
+}
+#box1 {
+	background-image: url('../images/sunshine1.svg');
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 200vh;
+	width: 100vw;
+	position: fixed;
+	top: -100vh;
+}
+#box2 {
+	background-image: url('../images/sunshine2.svg');
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 200vh;
+	width: 100vw;
+	position: fixed;
+	top: -100vh;
+}
+#box3 {
+	background-image: url('../images/sunshine3.svg');
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 200vh;
+	width: 100vw;
+	position: fixed;
+	top: -100vh;
+}
+
+#scrollHolder{
+	height:5000px;
+	width: 0px;
+
+
+}
